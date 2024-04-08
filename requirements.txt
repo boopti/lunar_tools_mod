@@ -1,5 +1,4 @@
 cuda_python; sys_platform == 'linux'
-elevenlabs
 ffmpeg
 ffmpeg_python
 matplotlib
@@ -20,7 +19,6 @@ replicate
 Requests
 rich
 setuptools
-simpleaudio
 sounddevice
 torch
 tqdm
