@@ -11,7 +11,7 @@ setup(
     package_data={
     'lunar_tools': ['midi_configs/*.yml'],
     },
-    url='https://github.com/lunarring/lunar_tools',
+    url='https://github.com/boopti/lunar_tools_mod',
     description='Lunar Ring auxiliary tools and modules',
     long_description=open('README.md').read(),
     install_requires=required,  # Use the list from requirements.txt here
